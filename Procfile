@@ -1,1 +1,1 @@
-web: herokuAddr=gogogoo.herokuapp.com npm run start
+web: herokuAddr=mysiteproxy.herokuapp.com npm run start
